@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1551105161742" clover="3.2.0">
+  <project timestamp="1551105161742" name="All files">
+    <metrics statements="111" coveredstatements="6" conditionals="35" coveredconditionals="0" methods="38" coveredmethods="3" elements="184" coveredelements="9" complexity="0" loc="111" ncloc="111" packages="4" files="13" classes="13">
+      <package name="src">
+        <metrics statements="71" coveredstatements="1" conditionals="31" coveredconditionals="0" methods="21" coveredmethods="0"/>
+        <file name="actions.js" path="C:\Users\Anton\Desktop\Webbdevelopment\robofriends\src\actions.js">
+          <metrics statements="8" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="0"/>
+          <line num="1" count="0" type="stmt"/>
+          <line num="2" count="0" type="stmt"/>
+          <line num="10" count="0" type="stmt"/>
+          <line num="12" count="0" type="stmt"/>
+          <line num="13" count="0" type="stmt"/>
+          <line num="14" count="0" type="stmt"/>
+          <line num="15" count="0" type="stmt"/>
+          <line num="16" count="0" type="stmt"/>
+        </file>
+        <file name="constants.js" path="C:\Users\Anton\Desktop\Webbdevelopment\robofriends\src\constants.js">
+          <metrics statements="4" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+          <line num="1" count="0" type="stmt"/>
+          <line num="3" count="0" type="stmt"/>
+          <line num="4" count="0" type="stmt"/>
+          <line num="5" count="0" type="stmt"/>
+        </file>
+        <file name="index.js" path="C:\Users\Anton\Desktop\Webbdevelopment\robofriends\src\index.js">
+          <metrics statements="16" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+          <line num="1" count="0" type="stmt"/>
+          <line num="2" count="0" type="stmt"/>
+          <line num="3" count="0" type="stmt"/>
+          <line num="4" count="0" type="stmt"/>
+          <line num="5" count="0" type="stmt"/>
+          <line num="6" count="0" type="stmt"/>
+          <line num="7" count="0" type="stmt"/>
+          <line num="9" count="0" type="stmt"/>
+          <line num="10" count="0" type="stmt"/>
+          <line num="11" count="0" type="stmt"/>
+          <line num="13" count="0" type="stmt"/>
+          <line num="15" count="0" type="stmt"/>
+          <line num="17" count="0" type="stmt"/>
+          <line num="19" count="0" type="stmt"/>
+          <line num="21" count="0" type="stmt"/>
+          <line num="27" count="0" type="stmt"/>
+        </file>
+        <file name="reducers.js" path="C:\Users\Anton\Desktop\Webbdevelopment\robofriends\src\reducers.js">
+          <metrics statements="13" coveredstatements="0" conditionals="10" coveredconditionals="0" methods="2" coveredmethods="0"/>
+          <line num="1" count="0" type="stmt"/>
+          <line num="8" count="0" type="stmt"/>
+          <line num="12" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="13" count="0" type="stmt"/>
+          <line num="15" count="0" type="stmt"/>
+          <line num="17" count="0" type="stmt"/>
+          <line num="21" count="0" type="stmt"/>
+          <line num="26" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="27" count="0" type="stmt"/>
+          <line num="29" count="0" type="stmt"/>
+          <line num="31" count="0" type="stmt"/>
+          <line num="33" count="0" type="stmt"/>
+          <line num="35" count="0" type="stmt"/>
+        </file>
+        <file name="registerServiceWorker.js" path="C:\Users\Anton\Desktop\Webbdevelopment\robofriends\src\registerServiceWorker.js">
+          <metrics statements="29" coveredstatements="0" conditionals="21" coveredconditionals="0" methods="14" coveredmethods="0"/>
+          <line num="11" count="0" type="stmt"/>
+          <line num="22" count="0" type="cond" truecount="0" falsecount="4"/>
+          <line num="24" count="0" type="stmt"/>
+          <line num="25" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="29" count="0" type="stmt"/>
+          <line num="32" count="0" type="stmt"/>
+          <line num="33" count="0" type="stmt"/>
+          <line num="35" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="37" count="0" type="stmt"/>
+          <line num="40" count="0" type="stmt"/>
+          <line num="47" count="0" type="stmt"/>
+          <line num="50" count="0" type="stmt"/>
+          <line num="51" count="0" type="stmt"/>
+          <line num="52" count="0" type="stmt"/>
+          <line num="53" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="54" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="59" count="0" type="stmt"/>
+          <line num="64" count="0" type="stmt"/>
+          <line num="71" count="0" type="stmt"/>
+          <line num="77" count="0" type="stmt"/>
+          <line num="80" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="85" count="0" type="stmt"/>
+          <line num="86" count="0" type="stmt"/>
+          <line num="87" count="0" type="stmt"/>
+          <line num="92" count="0" type="stmt"/>
+          <line num="96" count="0" type="stmt"/>
+          <line num="103" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="104" count="0" type="stmt"/>
+          <line num="105" count="0" type="stmt"/>
+        </file>
+        <file name="setupTests.js" path="C:\Users\Anton\Desktop\Webbdevelopment\robofriends\src\setupTests.js">
+          <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+          <line num="4" count="2" type="stmt"/>
+        </file>
+      </package>
+      <package name="src.api">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <file name="api.js" path="C:\Users\Anton\Desktop\Webbdevelopment\robofriends\src\api\api.js">
+          <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+          <line num="1" count="0" type="stmt"/>
+          <line num="2" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="src.components">
+        <metrics statements="18" coveredstatements="5" conditionals="2" coveredconditionals="0" methods="8" coveredmethods="3"/>
+        <file name="Card.js" path="C:\Users\Anton\Desktop\Webbdevelopment\robofriends\src\components\Card.js">
+          <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+          <line num="3" count="2" type="stmt"/>
+          <line num="4" count="1" type="stmt"/>
+        </file>
+        <file name="CardList.js" path="C:\Users\Anton\Desktop\Webbdevelopment\robofriends\src\components\CardList.js">
+          <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+          <line num="4" count="1" type="stmt"/>
+          <line num="5" count="1" type="stmt"/>
+          <line num="9" count="1" type="stmt"/>
+        </file>
+        <file name="ErrorBoundry.js" path="C:\Users\Anton\Desktop\Webbdevelopment\robofriends\src\components\ErrorBoundry.js">
+          <metrics statements="7" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="3" coveredmethods="0"/>
+          <line num="1" count="0" type="stmt"/>
+          <line num="5" count="0" type="stmt"/>
+          <line num="6" count="0" type="stmt"/>
+          <line num="10" count="0" type="stmt"/>
+          <line num="14" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="15" count="0" type="stmt"/>
+          <line num="17" count="0" type="stmt"/>
+        </file>
+        <file name="Scroll.js" path="C:\Users\Anton\Desktop\Webbdevelopment\robofriends\src\components\Scroll.js">
+          <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+          <line num="1" count="0" type="stmt"/>
+          <line num="3" count="0" type="stmt"/>
+          <line num="4" count="0" type="stmt"/>
+        </file>
+        <file name="SearchBox.js" path="C:\Users\Anton\Desktop\Webbdevelopment\robofriends\src\components\SearchBox.js">
+          <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+          <line num="1" count="0" type="stmt"/>
+          <line num="3" count="0" type="stmt"/>
+          <line num="4" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="src.containers">
+        <metrics statements="20" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="7" coveredmethods="0"/>
+        <file name="App.js" path="C:\Users\Anton\Desktop\Webbdevelopment\robofriends\src\containers\App.js">
+          <metrics statements="20" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="7" coveredmethods="0"/>
+          <line num="1" count="0" type="stmt"/>
+          <line num="2" count="0" type="stmt"/>
+          <line num="3" count="0" type="stmt"/>
+          <line num="5" count="0" type="stmt"/>
+          <line num="6" count="0" type="stmt"/>
+          <line num="7" count="0" type="stmt"/>
+          <line num="8" count="0" type="stmt"/>
+          <line num="10" count="0" type="stmt"/>
+          <line num="13" count="0" type="stmt"/>
+          <line num="14" count="0" type="stmt"/>
+          <line num="23" count="0" type="stmt"/>
+          <line num="24" count="0" type="stmt"/>
+          <line num="25" count="0" type="stmt"/>
+          <line num="26" count="0" type="stmt"/>
+          <line num="32" count="0" type="stmt"/>
+          <line num="35" count="0" type="stmt"/>
+          <line num="36" count="0" type="stmt"/>
+          <line num="37" count="0" type="stmt"/>
+          <line num="38" count="0" type="stmt"/>
+          <line num="40" count="0" type="stmt"/>
+        </file>
+      </package>
+    </metrics>
+  </project>
+</coverage>
